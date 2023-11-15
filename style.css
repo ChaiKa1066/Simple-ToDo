@@ -1,0 +1,16 @@
+.icon{
+    max-width: 20px;
+    min-width: 20px;
+}
+.tableF{
+    width: 3%;
+}
+tr :last-child{
+    width: 70%;
+}
+.ch{
+    max-width: 19px;
+    min-width: 19px;
+    max-height: 19px;
+    min-height: 19px;
+}
